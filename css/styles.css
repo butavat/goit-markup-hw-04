@@ -44,11 +44,10 @@ body {
 }
 
 .container {
-  max-width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
+  width: 1158px;
   margin-left: auto;
   margin-right: auto;
+  padding: 0 15px;
 }
 
 /*PAGE HEADER*/
